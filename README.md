@@ -1,8 +1,8 @@
-<img height="237" src="./src/images/Ayanokouji-Classroom-of-the-Elite-PNG.png">
+<!-- <img height="237" src="./src/images/Ayanokouji-Classroom-of-the-Elite-PNG.png"> -->
 
 # Hi, I'm Akram Firmansyah 👋
 
-- 🔭 I'm currently working as a Front End Engineer at [MyBuild](https://www.mybuild.id/)
+- 🔭 I once worked as a Front End Engineer at [MyBuild](https://www.mybuild.id/) (April 2025 - September 2025)
 - 🌱 Most technical challenges i solve with golang, nodejs in the backend and react, nextjs and vue in the frondend
 - 🔧 I'm very interested in clean code, performance optimizations and have good skills to find and solve bugs
 - 📫 How to reach me: akram.firman@gmail.com
